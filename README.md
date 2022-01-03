@@ -53,3 +53,4 @@ by a PR so other fellow can try it.
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
 |     |           |      |             |       |
+| 774335  | Ángela Rojo | [Report](https://github.com/angela-rs/lab6-microservices/blob/work/report.md) |             |       |
